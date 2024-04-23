@@ -16,7 +16,9 @@ Technologies Used:
 
  1. OpenAI's ChatGPT API
  2. Ultrasonic Sensors
-3. LED Lights
+ 3. LED Lights
+ 4. Arduino Uno
+ 5. Raspberry Pi
 
 How it Works:
 
