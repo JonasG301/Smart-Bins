@@ -1,4 +1,4 @@
-SmartBins System
+# SmartBins System
 
 SmartBins is an intelligent waste disposal system that utilizes voice commands to interact with the ChatGPT model via OpenAI's API. The system assists users in determining the correct bin for different types of waste disposal.
 
