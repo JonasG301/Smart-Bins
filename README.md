@@ -30,3 +30,5 @@ Ultrasonic sensors detect the fill level of each bin and update the LED status a
 SmartBins aims to simplify waste management by providing real-time guidance on waste sorting and bin filling levels through intuitive voice commands and visual feedback.
 
 ![wiring](https://github.com/JonasG301/Smart-Bins/assets/153020346/feb13bab-c38f-4efc-a031-4d230d68897c)
+![image](https://github.com/JonasG301/Smart-Bins/assets/153020346/bd3e17ae-f889-4a54-8882-882c9b4dfd32)
+
